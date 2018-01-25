@@ -108,8 +108,9 @@ void external_declaration() {
 		return;
 	}
 
+	while (1) {
 
-
+	}
 }
 
 void translation_unit() {
